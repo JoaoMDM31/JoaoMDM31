@@ -1,8 +1,8 @@
 <div align="center">
 
-# Joao Miranda
+# João Miranda
 
-**Organizacao academica, tecnologia e desenvolvimento web.**
+**Organização acadêmica, tecnologia e desenvolvimento web.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoMDM31-181717?style=for-the-badge&logo=github)](https://github.com/JoaoMDM31)
 [![AcademicFlow](https://img.shields.io/badge/Projeto-AcademicFlow-2563eb?style=for-the-badge)](https://github.com/JoaoMDM31/academicflow)
@@ -11,11 +11,11 @@
 
 ## Sobre mim
 
-Estou construindo ferramentas para organizar melhor a rotina academica, acompanhar prazos, registrar tarefas e transformar ideias em projetos funcionais.
+Estou construindo ferramentas para organizar melhor a rotina acadêmica, acompanhar prazos, registrar tarefas e transformar ideias em projetos funcionais.
 
 Gosto de projetos que juntam:
 
-- organizacao academica;
+- organização acadêmica;
 - produtividade;
 - desenvolvimento web;
 - automacao;
@@ -37,9 +37,9 @@ Tecnologias usadas:
 ![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
-## Em evolucao
+## Em evolução
 
-- Melhorar o AcademicFlow como uma plataforma completa para rotina academica.
+- Melhorar o AcademicFlow como uma plataforma completa para rotina acadêmica.
 - Criar projetos pequenos e uteis para automatizar tarefas do dia a dia.
 - Aprender e organizar melhor meus repositorios no GitHub.
 
@@ -57,6 +57,6 @@ Tecnologias usadas:
 
 <div align="center">
 
-Perfil em construcao continua.
+Perfil em construção contínua.
 
 </div>
