@@ -5,7 +5,8 @@
 **Organização acadêmica, tecnologia e desenvolvimento web.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoMDM31-181717?style=for-the-badge&logo=github)](https://github.com/JoaoMDM31)
-[![AcademicFlow](https://img.shields.io/badge/Projeto-AcademicFlow-2563eb?style=for-the-badge)](https://github.com/JoaoMDM31/academicflow)
+[![AcademicFlow](https://img.shields.io/badge/Abrir-AcademicFlow-2563eb?style=for-the-badge)](https://joaomdm31.github.io/academicflow/)
+[![Repositorio](https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/JoaoMDM31/academicflow)
 
 </div>
 
@@ -29,6 +30,8 @@ Gosto de projetos que juntam:
 Plataforma para gerenciar atividades academicas, congressos, artigos, relatorios, subtarefas, prazos, calendario e pendencias do curriculo Lattes.
 
 Repositorio: [JoaoMDM31/academicflow](https://github.com/JoaoMDM31/academicflow)
+
+Site publicado: [joaomdm31.github.io/academicflow](https://joaomdm31.github.io/academicflow/)
 
 Tecnologias usadas:
 
