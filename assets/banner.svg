@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">João Manoel Miranda</title><desc id="desc">Minimalist navy banner with the subtitle Python, Data Science and Mathematical Optimization</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1324"/><stop offset="1" stop-color="#12263e"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="16" fill="url(#g)"/>
+  <g opacity=".22" stroke="#5db4d6" fill="none" stroke-width="1.2">
+    <path d="M760 200 Q840 40 920 126 T1140 90"/><path d="M735 225 Q810 75 895 155 T1192 108"/><path d="M760 167 Q860 0 1000 70 T1210 40"/>
+    <circle cx="835" cy="126" r="4" fill="#34d399"/><circle cx="990" cy="86" r="5" fill="#38bdf8"/><circle cx="1100" cy="113" r="4" fill="#34d399"/>
+  </g>
+  <rect x="54" y="52" width="46" height="4" rx="2" fill="url(#line)"/>
+  <text x="54" y="110" fill="#f5f9ff" font-size="47" font-weight="750" font-family="Arial, Helvetica, sans-serif">João Manoel Miranda</text>
+  <text x="55" y="156" fill="#95cce6" font-size="23" font-family="Arial, Helvetica, sans-serif">PYTHON  /  DATA SCIENCE  /  OPTIMIZATION</text>
+  <text x="55" y="201" fill="#9aabc0" font-size="16" font-family="Arial, Helvetica, sans-serif">Software development • Applied optimization • Healthcare data</text>
+</svg>
