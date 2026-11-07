@@ -63,7 +63,7 @@ Plataforma web para organizar atividades acadêmicas: congressos, artigos, relat
 
 ## Pesquisa e aplicações
 
-**Otimização do planejamento radioterápico (IMRT):** uma mateheurística que combina um algoritmo memético com programação linear. O algoritmo escolhe ângulos e subfeixes de radiação e a programação linear calcula as intensidades de dose. A avaliação usou o banco público CORT (caso de próstata).
+**Otimização do planejamento radioterápico (IMRT):** uma metaheurística híbrida que combina um algoritmo memético com programação linear. O algoritmo memético seleciona ângulos e subfeixes de radiação, e a programação linear calcula as intensidades de dose. A avaliação usou o banco público CORT (caso de próstata).
 
 - [Trabalho publicado nos anais do CNMAC 2026](https://proceedings.science/cnmac-2026/papers/otimizacao-do-planejamento-radioterapico-por-meio-de-uma-mateheuristica-baseada?lang=en)
 - **PITER:** projeto de análise territorial do acesso a serviços de radioterapia. *Repositório ainda não publicado.*
