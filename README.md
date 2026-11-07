@@ -1,65 +1,87 @@
 <div align="center">
 
-# João Miranda
+<img src="assets/banner.svg" alt="João Manoel Miranda — Python, Data Science e Otimização Matemática" width="100%"/>
 
-**Organização acadêmica, tecnologia e desenvolvimento web.**
+### Python Developer · Data Science · Mathematical Optimization
 
-[![GitHub](https://img.shields.io/badge/GitHub-JoaoMDM31-181717?style=for-the-badge&logo=github)](https://github.com/JoaoMDM31)
-[![AcademicFlow](https://img.shields.io/badge/Abrir-AcademicFlow-2563eb?style=for-the-badge)](https://joaomdm31.github.io/academicflow/)
-[![Repositorio](https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/JoaoMDM31/academicflow)
+**Bacharel em Física Médica pela UNESP** · Desenvolvimento de software orientado a dados
 
-</div>
-
-## Sobre mim
-
-Estou construindo ferramentas para organizar melhor a rotina acadêmica, acompanhar prazos, registrar tarefas e transformar ideias em projetos funcionais.
-
-Gosto de projetos que juntam:
-
-- organização acadêmica;
-- produtividade;
-- desenvolvimento web;
-- automacao;
-- dados e pesquisa;
-- interfaces simples de usar.
-
-## Projeto em destaque
-
-### AcademicFlow
-
-Plataforma para gerenciar atividades academicas, congressos, artigos, relatorios, subtarefas, prazos, calendario e pendencias do curriculo Lattes.
-
-Repositorio: [JoaoMDM31/academicflow](https://github.com/JoaoMDM31/academicflow)
-
-Site publicado: [joaomdm31.github.io/academicflow](https://joaomdm31.github.io/academicflow/)
-
-Tecnologias usadas:
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
-## Em evolução
-
-- Melhorar o AcademicFlow como uma plataforma completa para rotina acadêmica.
-- Criar projetos pequenos e uteis para automatizar tarefas do dia a dia.
-- Aprender e organizar melhor meus repositorios no GitHub.
-
-## GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMDM31&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMDM31&layout=compact&theme=transparent&hide_border=true&locale=pt-br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-manoel-miranda-75446a321/)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-334155?style=flat-square)](http://lattes.cnpq.br/8672994439093238)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4190-3547)
 
 </div>
 
 ---
 
-<div align="center">
+> *Building practical software at the intersection of data, optimization and healthcare.*
 
-Perfil em construção contínua.
+Olá! Sou João Manoel, bacharel em Física Médica pela UNESP. Desenvolvo aplicações em **Python** e **TypeScript** que transformam dados em informação útil, do back-end com APIs e banco de dados à interface web. Na pesquisa, trabalhei com **otimização matemática e metaheurísticas** aplicadas ao planejamento radioterápico.
 
-</div>
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [SmartReports](https://github.com/JoaoMDM31/SmartReports)
+
+Aplicação full-stack que transforma planilhas Excel e CSV em dashboards, indicadores e relatórios em PDF.
+
+- API em FastAPI com autenticação JWT e histórico por usuário
+- Detecção de tipos de coluna, KPIs e perfil de qualidade dos dados
+- Gráficos interativos com Plotly e exportação em PDF (ReportLab)
+- Docker Compose, testes com pytest e CI no GitHub Actions
+
+`Python` `FastAPI` `Pandas` `PostgreSQL` `React` `Plotly` `Docker`
+
+[Código](https://github.com/JoaoMDM31/SmartReports) · [Demonstração web](https://smartreports-joaomdm31.joao31.chatgpt.site)
+
+<sub>A demonstração roda em modo local no navegador. O chat com IA via API depende de um backend configurado.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [AcademicFlow](https://github.com/JoaoMDM31/academicflow)
+
+Plataforma web para organizar atividades acadêmicas: congressos, artigos, relatórios, prazos e pendências do Lattes.
+
+- Dashboard de prazos, calendário mensal e visão Kanban
+- Etapas geradas automaticamente para submissões e eventos
+- Exportação CSV e backup/restauração em JSON
+- Deploy contínuo no GitHub Pages via GitHub Actions
+
+`TypeScript` `React` `Vite` `GitHub Pages`
+
+[Código](https://github.com/JoaoMDM31/academicflow) · [Acessar online](https://joaomdm31.github.io/academicflow/)
+
+<sub>Os dados ficam salvos no navegador (localStorage), com backup em JSON.</sub>
+
+</td>
+</tr>
+</table>
+
+## Pesquisa e aplicações
+
+**Otimização do planejamento radioterápico (IMRT):** uma mateheurística que combina um algoritmo memético com programação linear. O algoritmo escolhe ângulos e subfeixes de radiação e a programação linear calcula as intensidades de dose. A avaliação usou o banco público CORT (caso de próstata).
+
+- [Trabalho publicado nos anais do CNMAC 2026](https://proceedings.science/cnmac-2026/papers/otimizacao-do-planejamento-radioterapico-por-meio-de-uma-mateheuristica-baseada?lang=en)
+- **PITER:** projeto de análise territorial do acesso a serviços de radioterapia. *Repositório ainda não publicado.*
+
+## Tecnologias
+
+| Área | Ferramentas |
+|---|---|
+| Linguagens | Python · TypeScript · JavaScript |
+| Back-end e web | FastAPI · SQLAlchemy · React · Vite · APIs REST |
+| Dados | Pandas · Plotly · PostgreSQL · SQLite · Redis |
+| Otimização | Programação linear · Algoritmos meméticos · Metaheurísticas |
+| Ferramentas | Git · GitHub Actions · Docker · pytest |
+
+## Vamos conversar?
+
+Tenho interesse em desenvolvimento de software, dados, otimização e aplicações de IA na saúde. Você me encontra no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-manoel-miranda-75446a321/). Minha produção acadêmica está no [Lattes](http://lattes.cnpq.br/8672994439093238).
+
+---
+
+<div align="center"><sub>João Manoel Miranda · Botucatu, São Paulo, Brasil</sub></div>
